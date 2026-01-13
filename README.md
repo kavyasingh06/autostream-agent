@@ -74,18 +74,15 @@ Lead capture automation
 
 Production-ready architecture
 
-🎥 Demo Video
+## 🎥 Demo Video
+[Click here to watch the Agent in action](PASTE_YOUR_LINK_HERE)
 
-The demo video shows:
-
-Pricing question answered via RAG
-
-High-intent detection
-
-Lead data collection
-
-Successful mock API execution
+The video demonstrates:
+* RAG answering a pricing question.
+* Intelligent intent shifting.
+* Lead data collection and tool execution.
 
 🏁 Conclusion
+
 
 This project demonstrates a real-world, deployable agentic workflow suitable for SaaS sales automation and social lead conversion systems.
